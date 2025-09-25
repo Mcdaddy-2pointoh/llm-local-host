@@ -9,4 +9,4 @@ hf_model: {
   }
 }
 
-hf_home_path: ""
+hf_home_path: "YOUR_HF_HOME_HUB_PATH"
